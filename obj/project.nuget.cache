@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKP7Sypwi2E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\InvProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.302\\microsoft.net.sdk.compilers.toolset.9.0.302.nupkg.sha512"
+  ],
+  "logs": []
+}
