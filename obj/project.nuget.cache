@@ -1,9 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "fKP7Sypwi2E=",
+  "dgSpecHash": "xq63SDDp1EM=",
   "success": true,
   "projectFilePath": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\InvProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.7\\microsoft.aspnetcore.authorization.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.7\\microsoft.aspnetcore.components.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.7\\microsoft.aspnetcore.components.analyzers.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\9.0.7\\microsoft.aspnetcore.components.forms.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.aspnetcore.components.web\\9.0.7\\microsoft.aspnetcore.components.web.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.aspnetcore.metadata\\9.0.7\\microsoft.aspnetcore.metadata.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.7\\microsoft.extensions.logging.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.extensions.options\\9.0.7\\microsoft.extensions.options.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.jsinterop\\9.0.7\\microsoft.jsinterop.9.0.7.nupkg.sha512",
+    "C:\\Users\\AryaFedrik\\.nuget\\packages\\radzen.blazor\\7.1.6\\radzen.blazor.7.1.6.nupkg.sha512",
     "C:\\Users\\AryaFedrik\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.302\\microsoft.net.sdk.compilers.toolset.9.0.302.nupkg.sha512"
   ],
   "logs": []
