@@ -1,0 +1,46 @@
+﻿
+	<RadzenText TextStyle="TextStyle.Body1" Text="Select files to upload. You can choose multiple files at once." Style="text-align:center;" />
+	<RadzenRow Gap="5px" JustifyContent="JustifyContent.Start" AlignItems="AlignItems.Center">
+		<RadzenRow>
+			<RadzenColumn Size="12" SizeMD="4">
+				<RadzenText TextStyle="TextStyle.Body1" Text="Username" Style="text-align:center;" />
+			</RadzenColumn>
+			<RadzenColumn Size="12" SizeMD="7">
+				<RadzenTextBox aria-label="Enter your username" Style="width:100%;" />
+			</RadzenColumn>
+		</RadzenRow>
+		<RadzenRow>
+			<RadzenColumn Size="12" SizeMD="4">
+				<RadzenText TextStyle="TextStyle.Body1" Text="Category" Style="text-align:center;" />
+			</RadzenColumn>
+			<RadzenColumn Size="12" SizeMD="7">
+				<RadzenAutoComplete Data="@categories"
+									TValue="string"
+									@bind-Value="SelectedCategory"
+									Placeholder="Select or type category"
+									Style="width:100%;"
+									AllowCustom="true"
+									Change="OnCategoryChanged"
+									FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+									MinLength="0" />
+
+			</RadzenColumn>
+		</RadzenRow>
+		<RadzenRow>
+			<RadzenColumn Size="12" SizeMD="4">
+				<RadzenText TextStyle="TextStyle.Body1" Text="Upload Date" Style="text-align:center;" />
+			</RadzenColumn>
+			<RadzenColumn Size="12" SizeMD="7">
+				<RadzenDatePicker @bind-Value=uploadDate ShowTime="true" HourFormat="12" DateFormat="MM/dd/yyyy h:mm tt" Name="DatePickerHourFormat" ReadOnly=true />
+			</RadzenColumn>
+		</RadzenRow>
+		<RadzenRow>
+			<RadzenColumn Size="12" SizeMD="4">
+				<RadzenText TextStyle="TextStyle.Body1" Text="Files" Style="text-align:center;" />
+			</RadzenColumn>
+			<RadzenColumn Size="12" SizeMD="7">
+				<RadzenUpload Url="/api/upload" ChooseText="Select Files" Multiple="true" Style="width: 100%;" />
+			</RadzenColumn>
+		</RadzenRow>
+	</RadzenRow>
+
