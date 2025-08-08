@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\dialog\\uploadfilesdialog.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\dialog\\uploadfilesdialog.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\dialog\\uploadfilesdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\dialog\\uploadfilesdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\pages\\uploadfile.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\pages\\uploadfile.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\pages\\uploadfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\pages\\uploadfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|c:\\users\\aryafedrik\\documents\\testproject\\invproject\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB2B2A8-2606-44F7-8CC0-0D5B5C811E26}|InvProject.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 64,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +79,155 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadFile.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Pages\\UploadFile.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\UploadFile.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Pages\\UploadFile.razor",
+              "RelativeToolTip": "Components\\Pages\\UploadFile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:02:54.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T23:58:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadFilesDialog.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Dialog\\UploadFilesDialog.razor",
+              "RelativeDocumentMoniker": "Components\\Dialog\\UploadFilesDialog.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Dialog\\UploadFilesDialog.razor",
+              "RelativeToolTip": "Components\\Dialog\\UploadFilesDialog.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:05:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T23:51:36.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:51:01.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T23:50:49.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T23:50:05.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T23:49:55.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:11:50.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadFilesDialog.razor.cs",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Dialog\\UploadFilesDialog.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Dialog\\UploadFilesDialog.razor.cs",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Dialog\\UploadFilesDialog.razor.cs",
+              "RelativeToolTip": "Components\\Dialog\\UploadFilesDialog.razor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:05:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadFile.razor.cs",
+              "DocumentMoniker": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Pages\\UploadFile.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\UploadFile.razor.cs",
+              "ToolTip": "C:\\Users\\AryaFedrik\\Documents\\TestProject\\InvProject\\Components\\Pages\\UploadFile.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\UploadFile.razor.cs",
+              "ViewState": "AgIAAAAAAADAGcE7hx8wwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:03:34.494Z",
+              "EditorCaption": ""
             }
           ]
         }
